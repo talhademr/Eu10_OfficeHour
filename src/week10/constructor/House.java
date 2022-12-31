@@ -6,13 +6,15 @@ public class House {
     public int year;
     public String type;
 
-    public House(){ // this is constructor
+  public House(String newAdress){
+      address = newAdress;
+  }
 
-    }
+  public House (String newAdrdress, int builYear){
+      address = newAdrdress;
+      year = builYear;
+  }
 
-    public void house(){ // this is normal method
-
-    }
 
 
 
