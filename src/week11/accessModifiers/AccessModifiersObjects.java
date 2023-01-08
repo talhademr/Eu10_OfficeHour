@@ -20,6 +20,6 @@ public class AccessModifiersObjects {
     }
 
     public void two(){
-        a.
+
     }
 }
